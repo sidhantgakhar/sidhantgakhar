@@ -2,6 +2,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com.sidhantgakhar)
 
+### 📚 My current stack includes:
+
+**Serverless**, **Lambda**, **CodeBuild**, **S3**, **API Gateway**, etc. - AWS. <br>
+**Angular**, **Polymer**, **Redux**, **d3js** etc. - Frontend development. <br>
+**NodeJs**, **MongoDB**, **Typescript**, **Redis**, **dotnet core**, **MSSQL**, etc - Backend Development <br>
+**Jest**, **Mocha**, **Chai**, **NUnit**, etc. - Unit and Integrations Testing. <br>
+
 <!--
 **sidhantgakhar/sidhantgakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhantgakhar&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)
